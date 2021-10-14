@@ -1,0 +1,2 @@
+CARLOS|1
+PEDRO|3
